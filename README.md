@@ -1,6 +1,6 @@
 # Movies-ETL
 ## Project Overview
-The purprose of this project is to create an automated pipeline that takes in new data, performs the appropriate transformations, and loads the data into existing tables. The challenge focuses on refactoring code from the class module to create one function that takes in three files and performs the ETL process by adding the data to a PostgreSQL database. 
+The purpose of this project is to create an automated pipeline that takes in new data, performs the appropriate transformations, and loads the data into existing tables. The challenge focuses on refactoring code from the class module to create one function that takes in three files and performs the ETL process by adding the data to a PostgreSQL database. 
 ## Summary
 https://github.com/Bropell/Movies-ETL
 
